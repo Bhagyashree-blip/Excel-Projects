@@ -4,7 +4,7 @@ CPI INFLATION DashBoard of India upto 2023
 I'm excited to share my latest Excel CPI Inflation of India DashBoard, designed for real-time performance tracking and analysis!
 
 # Dataset used
-- <a herf-"https://github.com/Bhagyashree-blip/Excel-Projects/blob/main/All_India_Index_Upto_April23_V1.1%20Final.xlsx"> Dataset View </a>
+https://github.com/Bhagyashree-blip/Excel-Projects/blob/main/All_India_Index_Upto_April23_V1.1%20Final.xlsx
 
 🔵 Key Insights at a glance: ✅ Overall Trend, Post-COVID Period (2020–2023), ✅Urban vs Rural Inflation, ✅ Category-wise Impact, ✅ falling crude oil prices. 
 
