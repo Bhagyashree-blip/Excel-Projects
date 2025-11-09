@@ -18,3 +18,5 @@ with interactive visuals and automated calculated, this dashboard helps us to ma
 
 
 #ExcelDashboard #DataVisualization #CPIinflation #Analytics 
+# Skills Used
+🔵 Data Cleaning - Excel Dashboard - Data Analyst - Excel Pivot - Microsoft Excel
