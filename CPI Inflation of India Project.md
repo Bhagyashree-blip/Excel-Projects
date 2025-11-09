@@ -9,7 +9,7 @@ https://github.com/Bhagyashree-blip/Excel-Projects/blob/main/All_India_Index_Upt
 🔵 Key Insights at a glance: ✅ Overall Trend, Post-COVID Period (2020–2023), ✅Urban vs Rural Inflation, ✅ Category-wise Impact, ✅ falling crude oil prices. 
 
 # DashBoard
-- <a herf-"https://github.com/Bhagyashree-blip/Excel-Projects/blob/main/Screenshot%202025-11-09%20100842.png">dashboard view</a>
+https://github.com/Bhagyashree-blip/Excel-Projects/blob/main/Screenshot%202025-11-09%20100842.png dashboard view</a>
 
 DashBoard View:
 with interactive visuals and automated calculated, this dashboard helps us to make data driven decisions faster than ever!
